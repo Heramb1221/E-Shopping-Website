@@ -7,7 +7,7 @@ import Home from './pages/Home'
 const App = () => {
   return(
     <div>
-      <div>
+      <div className="bg-slate-900">
         <NavBar />
       </div>
       <Routes>
